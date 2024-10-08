@@ -1,0 +1,4 @@
+﻿  Classwork16.cpp
+C:\Users\glenn\Desktop\BCC\Cis25\Classwork16\Classwork16\Classwork16.cpp(15,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\glenn\Desktop\BCC\Cis25\Classwork16\Classwork16\Classwork16.cpp(55,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Classwork16.vcxproj -> C:\Users\glenn\Desktop\BCC\Cis25\Classwork16\x64\Debug\Classwork16.exe
